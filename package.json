@@ -1,7 +1,7 @@
 {
   "name": "clone",
   "version": "0.1.0",
-  "homepage": "https://asliddinamir.github.io/react_weather_app/",
+  "homepage": "https://asliddinamir.github.io/react-currency-converter-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -13,9 +13,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
